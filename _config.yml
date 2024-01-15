@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qianqian Xie"
+title                    : "Dr. Yang Liu"
 title_separator          : "-"
-name                     : &name "Qianqian Xie"
+name                     : &name "Dr. Yang Liu"
 description              : &description "personal description"
-url                      : https://xashely.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ahhqliuyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xashely/xashely.github.io"
+repository               : "ahhqliuyang/ahhqliuyang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -79,14 +79,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qianqian Xie"
-  avatar           : "profile.png"
-  bio              : "Ph.D. students, Computer School, Wuhan University"
-  location         : "Wuhan, Hubei, China"
+  name             : "Dr. Yang Liu"
+  avatar           : "profile2.png"
+  bio              : "Associate Professor and Vice Director of the Department of Corporate Management, School of Economics and Management, Nanjing University of Science and Technology"
+  location         : "Nanjing, Jiangsu, China"
   employer         :
-  twitter          : "qianqian_xie"
+  twitter          : "Dr. Yang Liu"
   googlescholar    : "https://scholar.google.com/citations?user=UYW7X_0AAAAJ&hl=en"
-  email            : "xieq@whu.edu.cn"
+  email            : "liuy@njust.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
