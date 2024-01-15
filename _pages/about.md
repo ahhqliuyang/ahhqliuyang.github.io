@@ -35,7 +35,7 @@ Publications
 
 *	Ouyang, Z., Sun, Q., & **Liu, Y.*** (2023). The impact of investor reaction to crisis events on corporate philanthropy: evidence from Chinese firms. *Asian Business & Management*. 1-25.doi.org/10.1057/s41291-023-00232-7
 
-*	Ouyang, Z., Lv, R., & **Liu, Y.** * (2023). Can corporate social responsibility protect firm value during corporate environmental violation events? Corporate Social Responsibility and Environmental Management. doi.org/10.1002/csr.2465 
+*	Ouyang, Z., Lv, R., & **Liu, Y.** * (2023). Can corporate social responsibility protect firm value during corporate environmental violation events? *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2465 
 
 *	Hu, L., Ma, H. L., Wang, L.* , & **Liu, Y.** (2023). Hiding or disclosing? Information discrimination in member-only discounts. *Transportation Research Part E: Logistics and Transportation Review*. 171, 103026. doi.org/10.1016/j.tre.2023.103026
 
