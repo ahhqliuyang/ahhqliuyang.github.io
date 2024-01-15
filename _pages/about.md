@@ -11,18 +11,17 @@ redirect_from:
 Dr. Liu is Associate Professor and Vice Director of the Department of Corporate Management, School of Economics and Management, Nanjing University of Science and Technology. Dr. Liu’s current research focus areas include strategic management, corporate crisis management, and corporate social responsibility. His research work has been published regularly in premier management journals such as Management and Organization Review, Business Strategy and the Environment, Pacific-basin Finance Journal, Corporate Social Responsibility and Environment Management, and Journal of Retailing and Consumer Services.
 
 
-
-ACADEMIC QUALIFICATIONS
+Adcademic QualificationS
 ====
 * Ph.D. University of Science and Technology of China, Management Science and Engineering, 2012 - 2017
 *	B.S. Hefei University of Technology, Information Management and Information System, 2007 – 2011
 
-ACADEMIC AND PROFESSIONAL EXPERIENCE
+Adcademic and professional experience
 ====
 * Nanjing University of Science and Technology, School of Economics and Management, Associate Professor (Faculty) Oct 2019 – present, Vice Director of the Department of Corporate Management Oct 2020 – Jan 2024.
 *	University of Science and Technology of China, Department of Mathematics, Post-doctoral Fellow, Nov 2017 – Oct 2019
 
-PUBLICATIONS
+Publications
 ====
 *	Liu, Y., Zhang, F.*, & Zhang, H.  (2024).  CEO foreign experience and corporate environmental, social, and governance (ESG) performance. Business Strategy and the Environment.doi.org/10.1002/bse.3647
 
