@@ -23,15 +23,15 @@ Adcademic and professional experience
 
 Publications
 ====
-(* indicates corresponding author; † indicates my students)
+(* indicates corresponding author)
 
-*	**Liu, Y.**, Zhang, F.*†, & Zhang, H.†  (2024).  CEO foreign experience and corporate environmental, social, and governance (ESG) performance. *Business Strategy and the Environment*.doi.org/10.1002/bse.3647
+*	**Liu, Y.**, Zhang, F.*, & Zhang, H.  (2024).  CEO foreign experience and corporate environmental, social, and governance (ESG) performance. *Business Strategy and the Environment*.doi.org/10.1002/bse.3647
 
-*	**Liu, Y.**, Zhang, H.*†, & Zhang, F†. (2023). The power of CEO growing up in poverty: Enabling better corporate environmental, social, and governance (ESG) performance. *Corporate Social Responsibility and Environmental Management*.doi.org/10.1002/csr.2652 
+*	**Liu, Y.**, Zhang, H.*, & Zhang, F. (2023). The power of CEO growing up in poverty: Enabling better corporate environmental, social, and governance (ESG) performance. *Corporate Social Responsibility and Environmental Management*.doi.org/10.1002/csr.2652 
 
 *	Hu, L., Li, Y., Li, Z.*, & **Liu, Y.** (2023). Dual-Channel Structure Design for Sales of Blind Box Products Considering Probability Discrimination. *IEEE Transactions on Engineering Management*.doi.org/10.1109/TEM.2023.3324696
 
-*	**Liu, Y.**, Zhang, H.*†, & Zhang, F†. (2023). CEO's poverty imprints and corporate financial fraud: Evidence from China. *Pacific-Basin Finance Journal*. 81, 102128.doi.org/10.1016/j.pacfin.2023.102128
+*	**Liu, Y.**, Zhang, H.*, & Zhang, F. (2023). CEO's poverty imprints and corporate financial fraud: Evidence from China. *Pacific-Basin Finance Journal*. 81, 102128.doi.org/10.1016/j.pacfin.2023.102128
 
 *	Ouyang, Z., Sun, Q., & **Liu, Y.*** (2023). The impact of investor reaction to crisis events on corporate philanthropy: evidence from Chinese firms. *Asian Business & Management*. 1-25.doi.org/10.1057/s41291-023-00232-7
 
