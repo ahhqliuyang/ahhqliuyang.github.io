@@ -83,7 +83,7 @@ Publications
 
 *	Cheng, P., Ouyang Z., & **Liu, Y.*** (2020). [The Effect of Information Overload on the Intention of Consumers to Adopt Electric Vehicles](https://link.springer.com/article/10.1007/s11116-019-10001-1). *Transportation*. 47: 2067–2086. doi.org/10.1007/s11116-019-10001-1
 
-*	OuYang, Z., Cheng, P., & **Liu, Y.*** (2020). [The Role of Product Line Breadth, Product Pre-Entry Experience, and Market Uncertainty in Explaining Followers' Speed of Feature Entry](https://link.springer.com/article/10.1007/s11846-019-00328-5). *Review of Managerial Science*. 14(6): 1221-1249. doi.org/10.1007/s11846-019-00328-5
+*	Ouyang, Z., Cheng, P., & **Liu, Y.*** (2020). [The Role of Product Line Breadth, Product Pre-Entry Experience, and Market Uncertainty in Explaining Followers' Speed of Feature Entry](https://link.springer.com/article/10.1007/s11846-019-00328-5). *Review of Managerial Science*. 14(6): 1221-1249. doi.org/10.1007/s11846-019-00328-5
 
 *	**Liu, Y.**, Cheng, P., Ouyang, Z.,* (2019). [Disaster Risk, Risk Management, and Tourism Competitiveness: A Cross-Nation Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/jtr.2310). *International Journal of Tourism Research*. 21(8): 855-867. doi.org/10.1002/jtr.2310
 
