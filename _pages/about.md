@@ -26,7 +26,7 @@ Education
 * Ph.D. University of Science and Technology of China, Management Science and Engineering, 2012 - 2017
 *	B.S. Hefei University of Technology, Information Management and Information System, 2007 – 2011
 
-My research team
+My team
 ====
 * 2023 master candicate, Miss Zuying Peng, Research interests: corporate AI innovation
 *	2022 master candicate, Mr Fukang Zhang, Research interests: CEO, corporate ESG performance
@@ -34,6 +34,20 @@ My research team
 *	2021 master candicate, Miss Chengyu Pei, Research interests: product recall and corporate innovation
 *	2021 master candicate, Miss Han Zhang, Research interests: CEO imprints
 *	2020 master graduated, Miss Tianqiong Li, Research interests: product harm crisis management
+
+Grants
+====
+* National Natural Science Foundation of China:#72002102
+* Humanities and Social Science Fund of Ministry of Education of China:#18YJC630106
+* China Postdoctoral Science Foundation:#2018M642546
+*	Initial Research Funds for Young Teachers of Nanjing University of Science and Technology:#JGQN2004
+*	2020 Jiangsu Shuangchuang (Mass Innovation and Entrepreneurship) Talent Program:award for Dr.Yang Liu
+* Fundamental Research Funds for the Central Universities:#30920010017
+* Key Project of Philosophy and Social Science Research in Colleges and Universities in Jiangsu Province:#2020SJA0030
+  
+Review work
+====
+* Management and Organization Review, Journal of Business Ethics, Journal of Business Research, European Accounting Review, Journal of Small Business Management, Entrepreneurship Research Journal......
 
 Publications
 ====
