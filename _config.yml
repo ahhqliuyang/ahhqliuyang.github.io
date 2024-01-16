@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yang Liu"
+title                    : "Welcome to Dr. Yang Liu's Page"
 title_separator          : "-"
 name                     : &name "Dr. Yang Liu"
 description              : &description "personal description"
@@ -85,7 +85,7 @@ author:
   location         : "Nanjing, Jiangsu, China"
   employer         : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=p2mqLMgAAAAJ&hl=zh-CN&oi=sra"
-  email            : "liuy@njust.edu.cn"
+  email            : liuy@njust.edu.cn
   uri              :
   bitbucket        :
   codepen          :
