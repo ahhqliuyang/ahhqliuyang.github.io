@@ -8,30 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Liu is Associate Professor and Vice Director of the Department of Corporate Management, School of Economics and Management, Nanjing University of Science and Technology. Dr. Liu’s current research focus areas include strategic management, corporate crisis management, and corporate social responsibility. His research work has been published regularly in premier management journals such as Management and Organization Review, Business Strategy and the Environment, Pacific-basin Finance Journal, Corporate Social Responsibility and Environment Management, and Journal of Retailing and Consumer Services.
+I am Associate Professor and Vice Director of the Department of Corporate Management, [School of Economics and Management](https://sem.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). My research work has been published regularly in premier management journals such as *Management and Organization Review*, *Business Strategy and the Environment*, *Pacific-basin Finance Journal*, *Corporate Social Responsibility and Environment Management*, and *Journal of Retailing and Consumer Services*. I am a member of the International Association for Chinese Management Research (IACMR).
 
-
-Adcademic qualifications
+Research interests
 ====
-* Ph.D. University of Science and Technology of China, Management Science and Engineering, 2012 - 2017
-*	B.S. Hefei University of Technology, Information Management and Information System, 2007 – 2011
+* Strategic management.
+*	Corporate crisis management
+*	Corporate governance
 
 Adcademic and professional experience
 ====
 * Nanjing University of Science and Technology, School of Economics and Management, Associate Professor (Faculty) Oct 2019 – present, Vice Director of the Department of Corporate Management Oct 2020 – Jan 2024.
 *	University of Science and Technology of China, Department of Mathematics, Post-doctoral Fellow, Nov 2017 – Oct 2019
 
+Education
+====
+* Ph.D. University of Science and Technology of China, Management Science and Engineering, 2012 - 2017
+*	B.S. Hefei University of Technology, Information Management and Information System, 2007 – 2011
+
 Publications
 ====
 (* indicates corresponding author)
 
-*	**Liu, Y.**, Zhang, F.*, & Zhang, H.  (2024).  CEO foreign experience and corporate environmental, social, and governance (ESG) performance. *Business Strategy and the Environment*.doi.org/10.1002/bse.3647
+*	**Liu, Y.**, Zhang, F.*, & Zhang, H.  (2024).  [CEO foreign experience and corporate environmental, social, and governance (ESG) performance](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.3647). *Business Strategy and the Environment*. doi.org/10.1002/bse.3647
 
-*	**Liu, Y.**, Zhang, H.*, & Zhang, F. (2023). The power of CEO growing up in poverty: Enabling better corporate environmental, social, and governance (ESG) performance. *Corporate Social Responsibility and Environmental Management*.doi.org/10.1002/csr.2652 
+*	**Liu, Y.**, Zhang, H.*, & Zhang, F. (2023). The power of CEO growing up in poverty: Enabling better corporate environmental, social, and governance (ESG) performance. *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2652 
 
-*	Hu, L., Li, Y., Li, Z.*, & **Liu, Y.** (2023). Dual-Channel Structure Design for Sales of Blind Box Products Considering Probability Discrimination. *IEEE Transactions on Engineering Management*.doi.org/10.1109/TEM.2023.3324696
+*	Hu, L., Li, Y., Li, Z.*, & **Liu, Y.** (2023). Dual-Channel Structure Design for Sales of Blind Box Products Considering Probability Discrimination. *IEEE Transactions on Engineering Management*. doi.org/10.1109/TEM.2023.3324696
 
-*	**Liu, Y.**, Zhang, H.*, & Zhang, F. (2023). CEO's poverty imprints and corporate financial fraud: Evidence from China. *Pacific-Basin Finance Journal*. 81, 102128.doi.org/10.1016/j.pacfin.2023.102128
+*	**Liu, Y.**, Zhang, H.*, & Zhang, F. (2023). CEO's poverty imprints and corporate financial fraud: Evidence from China. *Pacific-Basin Finance Journal*. 81, 102128. doi.org/10.1016/j.pacfin.2023.102128
 
 *	Ouyang, Z., Sun, Q., & **Liu, Y.*** (2023). The impact of investor reaction to crisis events on corporate philanthropy: evidence from Chinese firms. *Asian Business & Management*. 1-25.doi.org/10.1057/s41291-023-00232-7
 
