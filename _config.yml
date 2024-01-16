@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Dr. Yang Liu's Personal Page, I am glad to talk to you if you are interested in my research."
+title                    : "Welcome to Dr. Yang Liu's Personal Page."
 title_separator          : "-"
 name                     : &name "Dr. Yang Liu"
 description              : &description "personal description"
