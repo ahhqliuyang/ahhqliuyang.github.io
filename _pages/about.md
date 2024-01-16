@@ -30,7 +30,7 @@ Publications
 ====
 (* indicates corresponding author)
 
-*	**Liu, Y.**, Zhang, F.*, & Zhang, H.  (2024).  [CEO foreign experience and corporate environmental, social, and governance (ESG) performance](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.3647). *Business Strategy and the Environment*. doi.org/10.1002/bse.3647
+*	**Liu, Y.**, Zhang, F.,* & Zhang, H.  (2024).  [CEO foreign experience and corporate environmental, social, and governance (ESG) performance](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.3647). *Business Strategy and the Environment*. doi.org/10.1002/bse.3647
 
 *	**Liu, Y.**, Zhang, H.*, & Zhang, F. (2023). The power of CEO growing up in poverty: Enabling better corporate environmental, social, and governance (ESG) performance. *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2652 
 
