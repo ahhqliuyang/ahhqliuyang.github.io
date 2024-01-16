@@ -26,6 +26,15 @@ Education
 * Ph.D. University of Science and Technology of China, Management Science and Engineering, 2012 - 2017
 *	B.S. Hefei University of Technology, Information Management and Information System, 2007 – 2011
 
+My research team
+====
+* 2023 master candicate, Miss Zuying Peng, Research interests: corporate AI innovation
+*	2022 master candicate, Mr Fukang Zhang, Research interests: CEO, corporate ESG performance
+* 2022 master candicate, Miss Yizhou Jiang, Research interests: corporate political connections
+*	2021 master candicate, Miss Chengyu Pei, Research interests: product recall and corporate innovation
+*	2021 master candicate, Miss Han Zhang, Research interests: CEO imprints
+*	2020 master graduated, Miss Tianqiong Li, Research interests: product harm crisis management
+
 Publications
 ====
 (* indicates corresponding author)
