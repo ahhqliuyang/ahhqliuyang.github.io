@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Associate Professor and Vice Director of the Department of Corporate Management, [School of Economics and Management](https://sem.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). My research work has been published regularly in premier management journals such as *Management and Organization Review*, *Business Strategy and the Environment*, *Pacific-basin Finance Journal*, *Corporate Social Responsibility and Environment Management*, and *Journal of Retailing and Consumer Services*. I am a member of the International Association for Chinese Management Research (IACMR).
+I am Associate Professor and Vice Director of the Department of Corporate Management, [School of Economics and Management](https://sem.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). My research work has been published regularly in premier management journals such as *Management and Organization Review*, *Business Strategy and the Environment*, *Pacific-Basin Finance Journal*, *Corporate Social Responsibility and Environment Management*, and *Journal of Retailing and Consumer Services*. I am a member of the International Association for Chinese Management Research (IACMR).
 
 Research interests
 ====
@@ -18,7 +18,7 @@ Research interests
 
 Adcademic and professional experience
 ====
-* Nanjing University of Science and Technology, School of Economics and Management, Associate Professor (Faculty) Oct 2019 – present, Vice Director of the Department of Corporate Management Oct 2020 – Jan 2024.
+* Nanjing University of Science and Technology, School of Economics and Management, Associate Professor (Faculty) Oct 2019 – present, Vice Director of the Department of Corporate Management Oct 2020 – Jan 2024
 *	University of Science and Technology of China, Department of Mathematics, Post-doctoral Fellow, Nov 2017 – Oct 2019
 
 Education
@@ -53,29 +53,29 @@ Publications
 ====
 (* indicates corresponding author)
 
-*	**Liu, Y.**, Zhang, F.,* & Zhang, H.  (2024).  [CEO foreign experience and corporate environmental, social, and governance (ESG) performance](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.3647). *Business Strategy and the Environment*. doi.org/10.1002/bse.3647
+*	**Liu, Y.**, Zhang, F.,* & Zhang, H.  (2024).  [CEO Foreign Experience and Corporate Environmental, Social, and Governance (ESG) Performance](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.3647). *Business Strategy and the Environment*. doi.org/10.1002/bse.3647
 
-*	**Liu, Y.**, Zhang, H.,* & Zhang, F. (2023). [The power of CEO growing up in poverty: Enabling better corporate environmental, social, and governance (ESG) performance](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.2652). *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2652 
+*	**Liu, Y.**, Zhang, H.,* & Zhang, F. (2023). [The Power of CEO Growing up in Poverty: Enabling Better Corporate Environmental, Social, and Governance (ESG) Performance](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.2652). *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2652 
 
 *	Hu, L., Li, Y., Li, Z.,* & **Liu, Y.** (2023). [Dual-Channel Structure Design for Sales of Blind Box Products Considering Probability Discrimination](https://ieeexplore.ieee.org/abstract/document/10298831). *IEEE Transactions on Engineering Management*. doi.org/10.1109/TEM.2023.3324696
 
-*	**Liu, Y.**, Zhang, H.,* & Zhang, F. (2023). [CEO's poverty imprints and corporate financial fraud: Evidence from China](https://www.sciencedirect.com/science/article/pii/S0927538X23001993). *Pacific-Basin Finance Journal*. 81, 102128. doi.org/10.1016/j.pacfin.2023.102128
+*	**Liu, Y.**, Zhang, H.,* & Zhang, F. (2023). [CEO's Poverty Imprints and Corporate Financial Fraud: Evidence from China](https://www.sciencedirect.com/science/article/pii/S0927538X23001993). *Pacific-Basin Finance Journal*. 81, 102128. doi.org/10.1016/j.pacfin.2023.102128
 
-*	Ouyang, Z., Sun, Q., & **Liu, Y.*** (2023). [The impact of investor reaction to crisis events on corporate philanthropy: evidence from Chinese firms](https://link.springer.com/article/10.1057/s41291-023-00232-7). *Asian Business & Management*. 1-25.doi.org/10.1057/s41291-023-00232-7
+*	Ouyang, Z., Sun, Q., & **Liu, Y.*** (2023). [The Impact of Investor Reaction to Crisis Events on Corporate Philanthropy: Evidence from Chinese Firms](https://link.springer.com/article/10.1057/s41291-023-00232-7). *Asian Business & Management*. 1-25.doi.org/10.1057/s41291-023-00232-7
 
-*	Ouyang, Z., Lv, R., & **Liu, Y.** * (2023). [Can corporate social responsibility protect firm value during corporate environmental violation events?](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.2465) *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2465 
+*	Ouyang, Z., Lv, R., & **Liu, Y.** * (2023). [Can Corporate Social Responsibility Protect Firm Value During Corporate Environmental Violation Events?](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.2465) *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2465 
 
-*	Hu, L., Ma, H. L., Wang, L.,* & **Liu, Y.** (2023). [Hiding or disclosing? Information discrimination in member-only discounts](https://www.sciencedirect.com/science/article/pii/S1366554523000133). *Transportation Research Part E: Logistics and Transportation Review*. 171, 103026. doi.org/10.1016/j.tre.2023.103026
+*	Hu, L., Ma, H. L., Wang, L.,* & **Liu, Y.** (2023). [Hiding or disclosing? Information Discrimination in Member-only Discounts](https://www.sciencedirect.com/science/article/pii/S1366554523000133). *Transportation Research Part E: Logistics and Transportation Review*. 171, 103026. doi.org/10.1016/j.tre.2023.103026
 
-*	**Liu, Y.**, Ouyang, Z.,* & He, M. (2022). [Why and when firms respond accommodatively to the product-harm crisis: An institutional perspective](https://www.sciencedirect.com/science/article/pii/S0969698922001369). *Journal of Retailing and Consumer Services*. 68, 103043. doi.org/10.1016/j.jretconser.2022.103043
+*	**Liu, Y.**, Ouyang, Z.,* & He, M. (2022). [Why and When Firms Respond Accommodatively to the Product-harm Crisis: An Institutional Perspective](https://www.sciencedirect.com/science/article/pii/S0969698922001369). *Journal of Retailing and Consumer Services*. 68, 103043. doi.org/10.1016/j.jretconser.2022.103043
 
 *	Wei, J., Shao, Q. W., **Liu, Y.*** & Dora, M. (2022). [Climate Change and Homicide: Global Analysis of the Moderating Role of Information and Communication Technology](https://journals.ametsoc.org/view/journals/wcas/14/4/WCAS-D-22-0001.1.xml). *Weather, Climate, and Society*. doi.org/10.1175/WCAS-D-22-0001.1
 
-*	**Liu, Y.**, Cheng, P.,* & Hu, L. (2022). [How do justice and top management beliefs matter in industrial symbiosis collaboration: An exploratory study from China](https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.13235). *Journal of Industrial Ecology*. doi.org/10.1111/jiec.13235
+*	**Liu, Y.**, Cheng, P.,* & Hu, L. (2022). [How do Justice and Top Management Beliefs Matter in Industrial Symbiosis Collaboration: An Exploratory Study from China](https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.13235). *Journal of Industrial Ecology*. doi.org/10.1111/jiec.13235
 
-*	**Liu, Y.**, Cheng, P., & Ouyang, Z.* (2021). [How trust mediate the effects of perceived justice on loyalty: A study in the context of automotive recall in China](https://www.sciencedirect.com/science/article/pii/S0969698920313308). *Journal of Retailing and Consumer Services*. 58, 102322. doi.org/10.1016/j.jretconser.2020.102322
+*	**Liu, Y.**, Cheng, P., & Ouyang, Z.* (2021). [How Trust Mediate the Effects of Perceived Justice on Loyalty: A Study in the Context of Automotive Recall in China](https://www.sciencedirect.com/science/article/pii/S0969698920313308). *Journal of Retailing and Consumer Services*. 58, 102322. doi.org/10.1016/j.jretconser.2020.102322
 
-*	Ouyang, Z., Cheng, P., & **Liu, Y.*** (2021). [How does firm and board chairman celebrity influence IPO underpricing? Empirical evidence from China](https://www.tandfonline.com/doi/abs/10.1080/1540496X.2019.1689811). *Emerging Markets Finance and Trade*. doi.org/10.1080/1540496X.2019.1689811
+*	Ouyang, Z., Cheng, P., & **Liu, Y.*** (2021). [How does Firm and Board Chairman Celebrity Influence IPO Underpricing? Empirical Evidence from China](https://www.tandfonline.com/doi/abs/10.1080/1540496X.2019.1689811). *Emerging Markets Finance and Trade*. doi.org/10.1080/1540496X.2019.1689811
 
 *	Ouyang, Z., Cheng, P., **Liu, Y.**,* & Yang, R. (2020). [Institutional Drivers for Corporate Philanthropic Activities in China: Mediating Roles of Top Management Participation](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.1796). *Corporate Social Responsibility and Environmental Management*. 27(1): 244-255. doi.org/10.1002/csr.1796
 
@@ -89,13 +89,13 @@ Publications
 
 *	**Liu, Y.**, Ouyang, Z., Cheng, P.,* & Wei, J. (2019). [Consumer Adoption of Electric Vehicles When Considering City Smog: An Application of the Protective Action Decision Model](https://www.sciencedirect.com/science/article/pii/S0272494418306583). *Journal of Environmental Psychology*. 64: 30-38. doi.org/10.1016/j.jenvp.2019.04.013
 
-*	Cheng, P., Ouyang, Z., & **Liu, Y.*** (2019). [Understanding bike sharing use over time by employing extended technology continuance theory](https://www.sciencedirect.com/science/article/pii/S0965856418316768). *Transportation Research Part A: Policy and Practice*. 124: 433-443. doi.org/10.1016/j.tra.2019.04.013
+*	Cheng, P., Ouyang, Z., & **Liu, Y.*** (2019). [Understanding Bike Sharing Use Over Time by Employing Extended Technology Continuance Theory](https://www.sciencedirect.com/science/article/pii/S0965856418316768). *Transportation Research Part A: Policy and Practice*. 124: 433-443. doi.org/10.1016/j.tra.2019.04.013
 
 *	**Liu, Y.**,* Cheng, P., & Zhao, D. (2018). [New Product Launch Actions and Firm Performance: The Effects of Breadth, Complexity and Heterogeneity](https://www.emerald.com/insight/content/doi/10.1108/CMS-06-2017-0156/full/html). *Chinese Management Studies*. 12(1), 79-105. doi.org/10.1108/CMS-06-2017-0156
 
 *	**Liu, Y.**,* Wei, J., Xu, J., & Ouyang, Z. (2018). [Evaluation of the Moderate Earthquake Resilience of Counties in China Based on a Three-Stage DEA Model](https://link.springer.com/article/10.1007/s11069-017-3142-6). *Natural Hazards*. 91(2), 587-609. doi.org/10.1007/s11069-017-3142-6
 
-*	Ouyang, Z., Xu, J., Wei, J.,* & **Liu, Y.** (2017). [Information asymmetry and investor reaction to corporate crisis: Media reputation as a stock market signal](https://www.tandfonline.com/doi/abs/10.1080/08997764.2017.1364256). *Journal of Media Economics*. 30(2), 82-95. doi.org/10.1080/08997764.2017.1364256
+*	Ouyang, Z., Xu, J., Wei, J.,* & **Liu, Y.** (2017). [Information Asymmetry and Investor Reaction to Corporate Crisis: Media Reputation as a Stock Market Signal](https://www.tandfonline.com/doi/abs/10.1080/08997764.2017.1364256). *Journal of Media Economics*. 30(2), 82-95. doi.org/10.1080/08997764.2017.1364256
 
-*	Wei, J., & **Liu, Y.*** (2015). [Government support and firm innovation performance: Empirical analysis of 343 innovative enterprises in China](https://www.emerald.com/insight/content/doi/10.1108/CMS-01-2015-0018/full/html). *Chinese Management Studies*. 9(1), 38. doi.org/10.1108/CMS-01-2015-0018
+*	Wei, J., & **Liu, Y.*** (2015). [Government Support and Firm Innovation Performance: Empirical Analysis of 343 Innovative Enterprises in China](https://www.emerald.com/insight/content/doi/10.1108/CMS-01-2015-0018/full/html). *Chinese Management Studies*. 9(1), 38. doi.org/10.1108/CMS-01-2015-0018
 
