@@ -16,7 +16,7 @@ Research interests
 *	Corporate crisis management
 *	Corporate governance
 
-Adcademic and professional experience
+Academic and professional experience
 ====
 * Nanjing University of Science and Technology, School of Economics and Management, Associate Professor (Faculty) Oct 2019 – present, Vice Director of the Department of Corporate Management Oct 2020 – Jan 2024
 *	University of Science and Technology of China, Department of Mathematics, Post-doctoral Fellow, Nov 2017 – Oct 2019
