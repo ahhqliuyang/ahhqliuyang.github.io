@@ -18,7 +18,7 @@ Research interests
 
 Academic and professional experience
 ====
-* Nanjing University of Science and Technology, School of Economics and Management, Associate Professor (Faculty) Oct 2019 – present, Vice Director of the Department of Corporate Management Oct 2020 – Jan 2024
+* Nanjing University of Science and Technology, School of Economics and Management, Associate Professor (Faculty) Oct 2019 – present, Vice Director of the Department of Corporate Management Oct 2020 – Jan 2024, Executive Director of the Department of Corporate Management Feb 2024 – present
 *	University of Science and Technology of China, Department of Mathematics, Post-doctoral Fellow, Nov 2017 – Oct 2019
 
 Education
