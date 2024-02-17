@@ -53,9 +53,9 @@ Publications
 ====
 (* indicates corresponding author)
 
-*	Ouyang, Z., Wang, X., & **Liu, Y.*** (2024). . (2024). [The use of corporate social responsibility in response to product‐harm crisis: How do stock market reactions matter?](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.2739). *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2739
+*	Ouyang, Z., Wang, X., & **Liu, Y.*** (2024). [The Use of Corporate Social Responsibility in Response to Product‐harm Crisis: How do Stock Market Reactions Matter?](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.2739). *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2739
 
-*	Cheng, P., Wei, J., & **Liu, Y.*** (2024). [Give a plum in return for a peach: The effect of entrepreneurial informal financing on environmental corporate social responsibility](https://www.sciencedirect.com/science/article/abs/pii/S0148296324000389). *Journal of Business Research*. doi.org/10.1016/j.jbusres.2024.114534
+*	Cheng, P., Wei, J., & **Liu, Y.*** (2024). [Give a Plum in Return for a Peach: The Effect of Entrepreneurial Informal Financing on Environmental Corporate Social Responsibility](https://www.sciencedirect.com/science/article/abs/pii/S0148296324000389). *Journal of Business Research*. doi.org/10.1016/j.jbusres.2024.114534
 
 *	**Liu, Y.**, Zhang, F.,* & Zhang, H.  (2024).  [CEO Foreign Experience and Corporate Environmental, Social, and Governance (ESG) Performance](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.3647). *Business Strategy and the Environment*. doi.org/10.1002/bse.3647
 
