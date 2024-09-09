@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Associate Professor and Executive Director of the Department of Corporate Management, [School of Economics and Management](https://sem.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). My research work has been published regularly in premier management journals such as *Management and Organization Review*, *Journal of Business Research*,*Business Strategy and the Environment*, *Pacific-Basin Finance Journal*, *Corporate Social Responsibility and Environment Management*, and *Journal of Retailing and Consumer Services*. I am a member of the International Association for Chinese Management Research (IACMR).
+I am Associate Professor and Executive Director of the Department of Corporate Management, [School of Economics and Management](https://sem.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). My research work has been published regularly in premier management journals such as *Management and Organization Review*, *Journal of Business Research*,*Asia Pacific Journal of Management*, *Business Strategy and the Environment*, *Pacific-Basin Finance Journal*, *Corporate Social Responsibility and Environment Management*, and *Journal of Retailing and Consumer Services*. I am a member of the International Association for Chinese Management Research (IACMR).
 
 Research interests
 ====
@@ -52,6 +52,8 @@ Review work
 Publications
 ====
 (* indicates corresponding author)
+
+*	**Liu, Y.**, Jiang, Y., Li, T., & Shao, Q. W.*  (2024).  [Proactive versus passive product recall: Does a CEO’s early-life disaster experience matter?](https://link.springer.com/article/10.1007/s10490-024-09981-1). *Asia Pacific Journal of Management*. doi.org/10.1007/s10490-024-09981-1
 
 *	Ouyang, Z., Wang, X., & **Liu, Y.*** (2024). [The Use of Corporate Social Responsibility in Response to Product‐harm Crisis: How do Stock Market Reactions Matter?](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.2739). *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2739
 
