@@ -53,7 +53,7 @@ Publications
 ====
 (* indicates corresponding author)
 
-*	**Liu, Y.**, Jiang, Y., Li, T., & Shao, Q. W.*  (2024).  [Proactive versus passive product recall: Does a CEO’s early-life disaster experience matter?](https://link.springer.com/article/10.1007/s10490-024-09981-1). *Asia Pacific Journal of Management*. doi.org/10.1007/s10490-024-09981-1
+*	**Liu, Y.**, Jiang, Y., Li, T., & Shao, Q. W.*  (2024).  [Proactive versus Passive Product Recall: Does a CEO’s Early-life Disaster Experience Matter?](https://link.springer.com/article/10.1007/s10490-024-09981-1). *Asia Pacific Journal of Management*. doi.org/10.1007/s10490-024-09981-1
 
 *	Ouyang, Z., Wang, X., & **Liu, Y.*** (2024). [The Use of Corporate Social Responsibility in Response to Product‐harm Crisis: How do Stock Market Reactions Matter?](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.2739). *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2739
 
