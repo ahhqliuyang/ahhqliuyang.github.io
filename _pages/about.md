@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Associate Professor and Executive Director of the Department of Corporate Management, [School of Economics and Management](https://sem.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). My research work has been published regularly in premier management journals such as *Management and Organization Review*, *Journal of Business Research*,*Asia Pacific Journal of Management*, *Business Strategy and the Environment*, *Pacific-Basin Finance Journal*, *Corporate Social Responsibility and Environment Management*, and *Journal of Retailing and Consumer Services*. I am a member of the International Association for Chinese Management Research (IACMR).
+I am Associate Professor and Executive Director of the Department of Corporate Management, [School of Economics and Management](https://sem.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). My research work has been published regularly in premier management journals such as *Management and Organization Review*, *Journal of Business Research*,*Asia Pacific Journal of Management*, *BTechnological Forecasting and Social Change*, *Business Strategy and the Environment*, *Pacific-Basin Finance Journal*, *Corporate Social Responsibility and Environment Management*, and *Journal of Retailing and Consumer Services*. I am a member of the International Association for Chinese Management Research (IACMR).
 
 Research interests
 ====
-* Strategic management.
-*	Corporate crisis management
-*	Corporate governance
+* Corporate crisis management
+*	Risk management
 
 Academic and professional experience
 ====
@@ -28,6 +27,7 @@ Education
 
 My team
 ====
+* 2024 master candicate, Miss Xurui Zhang, Research interests: CSR
 * 2023 master candicate, Miss Zuying Peng, Research interests: corporate AI innovation
 *	2022 master candicate, Mr Fukang Zhang, Research interests: CEO, corporate ESG performance
 * 2022 master candicate, Miss Yizhou Jiang, Research interests: corporate political connections
@@ -52,7 +52,10 @@ Review work
 Publications
 ====
 (* indicates corresponding author)
-
+*	Shao, Q. W., Li, Y. N.,* **Liu, Y.**, Li, Z., Tian, J. J., & Wei, J. C.  (2025).  [Temporal buffering: Exploring how temporal distance affects consumers’ reactions to product recalls](https://www.sciencedirect.com/science/article/pii/S0969698925000311). *Journal of Retailing and Consumer Services*. doi.org/10.1016/j.jretconser.2025.104252
+*	
+*	**Liu, Y.**, Peng, Z. Y., Cheng, P.,* & Chen, J. M.  (2025).  [Whose call to recall: Institutional pressure, technological capability and product-harm crisis response strategy](https://www.sciencedirect.com/science/article/pii/S0040162525000630). *Technological Forecasting and Social Change*. doi.org/10.1016/j.techfore.2025.124032
+*	
 *	**Liu, Y.**, Jiang, Y., Li, T., & Shao, Q. W.*  (2024).  [Proactive versus Passive Product Recall: Does a CEO’s Early-life Disaster Experience Matter?](https://link.springer.com/article/10.1007/s10490-024-09981-1). *Asia Pacific Journal of Management*. doi.org/10.1007/s10490-024-09981-1
 
 *	Ouyang, Z., Wang, X., & **Liu, Y.*** (2024). [The Use of Corporate Social Responsibility in Response to Product‐harm Crisis: How do Stock Market Reactions Matter?](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.2739). *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2739
