@@ -52,9 +52,9 @@ Review work
 Publications
 ====
 (* indicates corresponding author)
-*	Shao, Q. W., Li, Y. N.,* **Liu, Y.**, Li, Z., Tian, J. J., & Wei, J. C.  (2025).  [Temporal buffering: Exploring how temporal distance affects consumers’ reactions to product recalls](https://www.sciencedirect.com/science/article/pii/S0969698925000311). *Journal of Retailing and Consumer Services*. doi.org/10.1016/j.jretconser.2025.104252
+*	Shao, Q. W., Li, Y. N.,* **Liu, Y.**, Li, Z., Tian, J. J., & Wei, J. C.  (2025).  [Temporal Buffering: Exploring How Temporal Distance Affects Consumers’ Reactions to Product Recalls](https://www.sciencedirect.com/science/article/pii/S0969698925000311). *Journal of Retailing and Consumer Services*. doi.org/10.1016/j.jretconser.2025.104252
 *	
-*	**Liu, Y.**, Peng, Z. Y., Cheng, P.,* & Chen, J. M.  (2025).  [Whose call to recall: Institutional pressure, technological capability and product-harm crisis response strategy](https://www.sciencedirect.com/science/article/pii/S0040162525000630). *Technological Forecasting and Social Change*. doi.org/10.1016/j.techfore.2025.124032
+*	**Liu, Y.**, Peng, Z. Y., Cheng, P.,* & Chen, J. M.  (2025).  [Whose Call to Recall: Institutional Pressure, Technological Capability and Product-harm Crisis Response Strategy](https://www.sciencedirect.com/science/article/pii/S0040162525000630). *Technological Forecasting and Social Change*. doi.org/10.1016/j.techfore.2025.124032
 *	
 *	**Liu, Y.**, Jiang, Y., Li, T., & Shao, Q. W.*  (2024).  [Proactive versus Passive Product Recall: Does a CEO’s Early-life Disaster Experience Matter?](https://link.springer.com/article/10.1007/s10490-024-09981-1). *Asia Pacific Journal of Management*. doi.org/10.1007/s10490-024-09981-1
 
