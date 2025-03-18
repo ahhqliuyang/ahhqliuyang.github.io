@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Associate Professor and Executive Director of the Department of Corporate Management, [School of Economics and Management](https://sem.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). My research work has been published regularly in premier management journals such as *Management and Organization Review*, *Journal of Business Research*,*Asia Pacific Journal of Management*, *BTechnological Forecasting and Social Change*, *Business Strategy and the Environment*, *Pacific-Basin Finance Journal*, *Corporate Social Responsibility and Environment Management*, and *Journal of Retailing and Consumer Services*. I am a member of the International Association for Chinese Management Research (IACMR).
+I am Associate Professor and Executive Director of the Department of Corporate Management, [School of Economics and Management](https://sem.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). My research work has been published regularly in premier management journals such as *Management and Organization Review*, *Journal of Business Research*, *Asia Pacific Journal of Management*, *Technological Forecasting and Social Change*, *Business Strategy and the Environment*, *Pacific-Basin Finance Journal*, *Corporate Social Responsibility and Environment Management*, and *Journal of Retailing and Consumer Services*. I am a member of the International Association for Chinese Management Research (IACMR).
 
 Research interests
 ====
