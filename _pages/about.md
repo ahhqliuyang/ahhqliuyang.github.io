@@ -29,10 +29,10 @@ My team
 ====
 * 2024 master candicate, Miss Xurui Zhang, Research interests: CSR
 * 2023 master candicate, Miss Zuying Peng, Research interests: corporate AI innovation
-*	2022 master candicate, Mr Fukang Zhang, Research interests: CEO, corporate ESG performance
-* 2022 master candicate, Miss Yizhou Jiang, Research interests: corporate political connections
-*	2021 master candicate, Miss Chengyu Pei, Research interests: product recall and corporate innovation
-*	2021 master candicate, Miss Han Zhang, Research interests: CEO imprints
+*	2022 master graduated, Mr Fukang Zhang, Research interests: CEO, corporate ESG performance
+* 2022 master graduated, Miss Yizhou Jiang, Research interests: corporate political connections
+*	2021 master graduated, Miss Chengyu Pei, Research interests: product recall and corporate innovation
+*	2021 master graduated, Miss Han Zhang, Research interests: CEO imprints
 *	2020 master graduated, Miss Tianqiong Li, Research interests: product harm crisis management
 
 Grants
@@ -53,9 +53,9 @@ Publications
 ====
 (* indicates corresponding author)
 *	Shao, Q. W., Li, Y. N.,* **Liu, Y.**, Li, Z., Tian, J. J., & Wei, J. C.  (2025).  [Temporal Buffering: Exploring How Temporal Distance Affects Consumers’ Reactions to Product Recalls](https://www.sciencedirect.com/science/article/pii/S0969698925000311). *Journal of Retailing and Consumer Services*. doi.org/10.1016/j.jretconser.2025.104252
-*	
+  
 *	**Liu, Y.**, Peng, Z. Y., Cheng, P.,* & Chen, J. M.  (2025).  [Whose Call to Recall: Institutional Pressure, Technological Capability and Product-harm Crisis Response Strategy](https://www.sciencedirect.com/science/article/pii/S0040162525000630). *Technological Forecasting and Social Change*. doi.org/10.1016/j.techfore.2025.124032
-*	
+  
 *	**Liu, Y.**, Jiang, Y., Li, T., & Shao, Q. W.*  (2024).  [Proactive versus Passive Product Recall: Does a CEO’s Early-life Disaster Experience Matter?](https://link.springer.com/article/10.1007/s10490-024-09981-1). *Asia Pacific Journal of Management*. doi.org/10.1007/s10490-024-09981-1
 
 *	Ouyang, Z., Wang, X., & **Liu, Y.*** (2024). [The Use of Corporate Social Responsibility in Response to Product‐harm Crisis: How do Stock Market Reactions Matter?](https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.2739). *Corporate Social Responsibility and Environmental Management*. doi.org/10.1002/csr.2739
