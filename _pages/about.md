@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Associate Professor and Executive Director of the Department of Corporate Management, [School of Economics and Management](https://sem.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). My research work has been published regularly in premier management journals such as *Management and Organization Review*, *Journal of Business Research*, *Asia Pacific Journal of Management*, *Technological Forecasting and Social Change*, *Business Strategy and the Environment*, *Pacific-Basin Finance Journal*, *Corporate Social Responsibility and Environment Management*, and *Journal of Retailing and Consumer Services*. I am a member of the International Association for Chinese Management Research (IACMR).
+I am Associate Professor and Executive Director of the Department of Corporate Management, [School of Economics and Management](https://sem.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). My research work has been published regularly in premier management journals such as *Technovation*, *Management and Organization Review*, *Journal of Business Research*, *Asia Pacific Journal of Management*, *Technological Forecasting and Social Change*, *Business Strategy and the Environment*, *Pacific-Basin Finance Journal*, *Corporate Social Responsibility and Environment Management*, and *Journal of Retailing and Consumer Services*. I am a member of the International Association for Chinese Management Research (IACMR).
 
 Research interests
 ====
@@ -52,6 +52,8 @@ Review work
 Publications
 ====
 (* indicates corresponding author)
+*	**Liu, Y.**, Zhang, F.,* Wei, J., Peng, Z., & Cheng, P. (2025). [Integrating expertise and authority: The role of CEO's IT imprinting and power in shaping corporate AI patenting](https://www.sciencedirect.com/science/article/abs/pii/S0166497225001403). *Technovation*. 147, 103308.doi.org/10.1016/j.technovation.2025.103308
+*	
 *	Shao, Q. W., Li, Y. N.,* **Liu, Y.**, Li, Z., Tian, J. J., & Wei, J. C.  (2025).  [Temporal Buffering: Exploring How Temporal Distance Affects Consumers’ Reactions to Product Recalls](https://www.sciencedirect.com/science/article/pii/S0969698925000311). *Journal of Retailing and Consumer Services*. doi.org/10.1016/j.jretconser.2025.104252
   
 *	**Liu, Y.**, Peng, Z. Y., Cheng, P.,* & Chen, J. M.  (2025).  [Whose Call to Recall: Institutional Pressure, Technological Capability and Product-harm Crisis Response Strategy](https://www.sciencedirect.com/science/article/pii/S0040162525000630). *Technological Forecasting and Social Change*. doi.org/10.1016/j.techfore.2025.124032
